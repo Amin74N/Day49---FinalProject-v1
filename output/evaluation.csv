@@ -1,0 +1,31 @@
+Command Number,Timestamp,Expected Intent,Transcript,Cleaned Text,Predicted Intent,Confidence,Recognition,Accuracy,Action,Response
+1,2026-08-20 20:21:21,GOODBYE,,,,0.0,Not Recognized,N/A,ASR Error,Speech recognition error.
+2,2026-08-20 20:21:39,GREETING,Hello.,hello,GREETING,0.994590163230896,Recognized,Correct,GREETING,Hello! How can I help you?
+3,2026-08-20 20:22:34,GET_TIME,What time is it?,what time is it,GET_TIME,0.984586238861084,Recognized,Correct,GET_TIME,The current time is 20:23:22.
+4,2026-08-20 20:23:35,GET_DATE,What is today's date?,what is todays date,GET_DATE,0.9941362142562866,Recognized,Correct,GET_DATE,Today's date is 2026-08-20.
+5,2026-08-20 20:24:37,JOKE,Tell me a joke.,tell me a joke,JOKE,0.9925233721733093,Recognized,Correct,JOKE,Why do programmers hate nature? It has too many bugs!
+6,2026-08-20 20:25:45,GET_TIME,The sky is very blue today.,the sky is very blue today,NOT_RECOGNIZED,0.37987568974494934,Not Recognized,N/A,Not Recognized,"I'm sorry, I didn't understand that. Please try again."
+7,2026-08-20 20:26:53,GET_DATE,What time is it?,what time is it,GET_TIME,0.984586238861084,Recognized,Incorrect,GET_TIME,The current time is 20:27:40.
+8,2026-08-20 20:27:54,GREETING,Hi there!,hi there,GREETING,0.9878089427947998,Recognized,Correct,GREETING,Hello! How can I help you?
+9,2026-08-20 20:28:52,GET_TIME,Tell me the current time.,tell me the current time,GET_TIME,0.8798137903213501,Recognized,Correct,GET_TIME,The current time is 20:29:41.
+10,2026-08-20 20:29:58,GET_DATE,Tell me the date.,tell me the date,GET_DATE,0.8810935616493225,Recognized,Correct,GET_DATE,Today's date is 2026-08-20.
+11,2026-08-20 20:30:59,JOKE,Can you tell me a joke?,can you tell me a joke,JOKE,0.9896590113639832,Recognized,Correct,JOKE,Why do programmers hate nature? It has too many bugs!
+12,2026-08-20 20:32:03,GET_DATE,I like eating pizza.,i like eating pizza,JOKE,0.8462127447128296,Recognized,Incorrect,JOKE,Why was the Python programmer confused? Because he couldn't C!
+13,2026-08-20 20:33:16,GET_TIME,What is today's date?,what is todays date,GET_DATE,0.9941362142562866,Recognized,Incorrect,GET_DATE,Today's date is 2026-08-20.
+14,2026-08-20 20:34:17,GREETING,Hey!,hey,NOT_RECOGNIZED,0.5027638673782349,Not Recognized,N/A,Not Recognized,"I'm sorry, I didn't understand that. Please try again."
+15,2026-08-20 20:35:21,GET_TIME,Can you tell me what time it is?,can you tell me what time it is,GET_TIME,0.9348096251487732,Recognized,Correct,GET_TIME,The current time is 20:36:11.
+16,2026-08-20 20:36:27,GET_DATE,What date is it today?,what date is it today,GET_DATE,0.9906036257743835,Recognized,Correct,GET_DATE,Today's date is 2026-08-20.
+17,2026-08-20 20:37:26,JOKE,Make me laugh.,make me laugh,JOKE,0.9906091690063477,Recognized,Correct,JOKE,Why do programmers hate nature? It has too many bugs!
+18,2026-08-20 20:38:23,GREETING,My computer is on the table.,my computer is on the table,NOT_RECOGNIZED,0.5101631283760071,Not Recognized,N/A,Not Recognized,"I'm sorry, I didn't understand that. Please try again."
+19,2026-08-20 20:39:23,GREETING,Tell me a joke.,tell me a joke,JOKE,0.9925233721733093,Recognized,Incorrect,JOKE,Why did the programmer quit his job? Because he didn't get arrays!
+20,2026-08-20 20:40:24,GREETING,Good morning!,good morning,GREETING,0.9896554946899414,Recognized,Correct,GREETING,Hello! How can I help you?
+21,2026-08-20 20:41:23,GET_TIME,What is the time right now?,what is the time right now,GET_TIME,0.8501107692718506,Recognized,Correct,GET_TIME,The current time is 20:42:11.
+22,2026-08-20 20:42:28,GET_DATE,Can you tell me today's date?,can you tell me todays date,NOT_RECOGNIZED,0.7984416484832764,Not Recognized,N/A,Not Recognized,"I'm sorry, I didn't understand that. Please try again."
+23,2026-08-20 20:43:37,JOKE,I need to hear a joke.,i need to hear a joke,JOKE,0.9827801585197449,Recognized,Correct,JOKE,Why did the programmer quit his job? Because he didn't get arrays!
+24,2026-08-20 20:44:39,JOKE,I need to buy a new keyboard.,i need to buy a new keyboard,NOT_RECOGNIZED,0.768683135509491,Not Recognized,N/A,Not Recognized,"I'm sorry, I didn't understand that. Please try again."
+25,2026-08-20 20:45:38,JOKE,"Hello, how are you?",hello how are you,GREETING,0.9597982168197632,Recognized,Incorrect,GREETING,Hello! How can I help you?
+26,2026-08-20 20:46:33,GREETING,"Hello, how are you?",hello how are you,GREETING,0.9597982168197632,Recognized,Correct,GREETING,Hello! How can I help you?
+27,2026-08-20 20:47:26,GET_TIME,Give me the current time.,give me the current time,GET_TIME,0.9344882965087891,Recognized,Correct,GET_TIME,The current time is 20:48:13.
+28,2026-08-20 20:48:25,GET_DATE,What is the current date?,what is the current date,GET_DATE,0.8060511946678162,Recognized,Correct,GET_DATE,Today's date is 2026-08-20.
+29,2026-08-20 20:49:23,JOKE,Tell me something funny.,tell me something funny,JOKE,0.9772398471832275,Recognized,Correct,JOKE,Why was the Python programmer confused? Because he couldn't C!
+30,2026-08-20 20:50:19,GOODBYE,See you soon!,see you soon,GOODBYE,0.8092248439788818,Recognized,Correct,GOODBYE,Goodbye!
