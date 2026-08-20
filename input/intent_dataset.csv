@@ -1,0 +1,51 @@
+text,intent
+hello,GREETING
+hi,GREETING
+hey,GREETING
+hey there,GREETING
+hello assistant,GREETING
+good morning,GREETING
+good evening,GREETING
+hi there,GREETING
+hello there,GREETING
+nice to meet you,GREETING
+what time is it,GET_TIME
+tell me the time,GET_TIME
+what is the current time,GET_TIME
+can you tell me the time,GET_TIME
+do you know what time it is,GET_TIME
+give me the current time,GET_TIME
+what's the time,GET_TIME
+could you tell me the time,GET_TIME
+tell me what time it is,GET_TIME
+what time do we have,GET_TIME
+what is today's date,GET_DATE
+tell me today's date,GET_DATE
+what date is it,GET_DATE
+what is the date today,GET_DATE
+can you tell me today's date,GET_DATE
+give me today's date,GET_DATE
+what day is it today,GET_DATE
+tell me the current date,GET_DATE
+what date are we on,GET_DATE
+could you tell me the date,GET_DATE
+tell me a joke,JOKE
+make me laugh,JOKE
+can you tell me a joke,JOKE
+give me a joke,JOKE
+I want to hear a joke,JOKE
+say something funny,JOKE
+make me laugh please,JOKE
+do you know any jokes,JOKE
+tell me something funny,JOKE
+give me something to laugh about,JOKE
+goodbye,GOODBYE
+bye,GOODBYE
+see you later,GOODBYE
+see you soon,GOODBYE
+talk to you later,GOODBYE
+I have to go,GOODBYE
+bye bye,GOODBYE
+good night,GOODBYE
+see you next time,GOODBYE
+I am leaving,GOODBYE
