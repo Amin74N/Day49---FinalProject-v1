@@ -1,7 +1,9 @@
 # Voice Assistant v1
 
 A Python-based Voice Assistant that processes spoken commands through a complete speech-to-action pipeline.
+
 The system captures audio from a microphone, processes the audio, converts speech to text using Whisper, cleans the transcript, classifies the user's intent, executes the corresponding action, generates a response, and converts the response back to speech using Text-to-Speech.
+
 This project was developed as a practical end-to-end implementation of an Audio → ASR → NLP → Intent Classification → Action → TTS pipeline.
 
 ## Features
@@ -137,7 +139,7 @@ Voice_Assistant_v1/
   - Accuracy
   - Action
   - Response
-
+- Application logs are saved to: `output/assistant.log`
 ## Error Handling:
 
 - The system includes error handling for several stages of the pipeline:
