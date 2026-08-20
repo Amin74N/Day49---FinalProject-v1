@@ -1,0 +1,30 @@
+Command : 01    Expected Intent : GOODBYE     User says : 
+Command : 02    Expected Intent : GREETING    User says : Hello
+Command : 03    Expected Intent : GET_TIME    User says : What time is it?
+Command : 04    Expected Intent : GET_DATE    User says : What is today's date?
+Command : 05    Expected Intent : JOKE             User says : Tell me a joke
+Command : 06    Expected Intent : GET_TIME    User says : The sky is very blue today
+Command : 07    Expected Intent : GET_DATE    User says : What time is it?
+Command : 08    Expected Intent : GREETING    User says : Hi there
+Command : 09    Expected Intent : GET_TIME    User says : Tell me the current time
+Command : 10    Expected Intent : GET_DATE    User says : Tell me the date
+Command : 11    Expected Intent : JOKE             User says : Can you tell me a joke?
+Command : 12    Expected Intent : GET_DATE    User says : I like eating pizza
+Command : 13    Expected Intent : GET_TIME    User says : What is today's date?
+Command : 14    Expected Intent : GREETING    User says : Hey
+Command : 15    Expected Intent : GET_TIME    User says : Can you tell me what time it is?
+Command : 16    Expected Intent : GET_DATE    User says : What date is it today?
+Command : 17    Expected Intent : JOKE             User says : Make me laugh
+Command : 18    Expected Intent : GREETING    User says : My computer is on the table
+Command : 19    Expected Intent : GREETING    User says : Tell me a joke
+Command : 20    Expected Intent : GREETING    User says : Good morning
+Command : 21    Expected Intent : GET_TIME    User says : What is the time right now?
+Command : 22    Expected Intent : GET_DATE    User says : Can you tell me today's date?
+Command : 23    Expected Intent : JOKE             User says : I want to hear a joke
+Command : 24    Expected Intent : JOKE             User says : I need to buy a new keyboard
+Command : 25    Expected Intent : JOKE             User says : Hello, how are you?
+Command : 26    Expected Intent : GREETING    User says : Hello, how are you?
+Command : 27    Expected Intent : GET_TIME    User says : Give me the current time
+Command : 28    Expected Intent : GET_DATE    User says : What is the current date?
+Command : 29    Expected Intent : JOKE             User says : Tell me something funny
+Command : 30    Expected Intent : GOODBYE     User says : See you soon!
